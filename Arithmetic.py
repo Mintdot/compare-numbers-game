@@ -55,6 +55,7 @@ def Compare():
     SecondLabel.configure(text=Two)
 
 
+
 game = Tk()
 game.title("숫자 비교 게임")
 Answer = Frame(game)
